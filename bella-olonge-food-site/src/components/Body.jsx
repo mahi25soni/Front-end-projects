@@ -1,7 +1,7 @@
 import React from "react";
 import login from "../assets/login.png";
 import food from "../assets/food.png";
-import payment from "../assets/food.png";
+import payment from "../assets/payment.png";
 
 export default function Body() {
   return (
