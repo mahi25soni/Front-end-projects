@@ -32,6 +32,7 @@ nav img {
   font-weight: 600;
 }
 
+
 .belowNav {
   margin-top: 100px;
   text-align: center;
@@ -39,10 +40,63 @@ nav img {
   width: 100%;
   flex-direction: row;
   justify-content: center;
+  background-image: url("../src/assets/background.png");
+  background-size: cover;
 }
-
-
 
 .belowNav * {
   margin-top: 30px;
+  color: white;
+
 }
+
+.twoButtons {
+  margin-bottom: 100px;
+}
+
+button{
+  margin: 15px;
+  font-size: large;
+  padding : 5px 15px;
+  background-color: transparent;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(248, 179, 51);
+}
+
+
+.bodyClass {
+  width: 100%;
+}
+
+.insideBody {
+  padding: 0 20%;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+}
+
+.insideBody div {
+  width: 50%;
+  text-align: center;
+}
+.insideBody div img{
+  height: 100%;
+}
+
+.contentBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contentBody h2 {
+  color: red;
+  font-size: 35px;
+}
+.contentBody h3{
+  font-weight: 350;
+}
+

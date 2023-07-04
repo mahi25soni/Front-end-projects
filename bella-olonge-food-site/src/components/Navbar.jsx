@@ -2,6 +2,7 @@ import React from "react";
 import logo from "../assets/logo.png";
 // import background from "../assets/background.png"
 import "../App.css";
+import Buttons from "./Buttons";
 export default function Navbar() {
   return (
     <>
@@ -22,7 +23,8 @@ export default function Navbar() {
             order from Bella Olonje
           </h1>
           <h3>Download the Bella Olonje app now</h3>
-        </div>
+        <Buttons></Buttons>
+        </div>      
       </div>
     </>
   );
