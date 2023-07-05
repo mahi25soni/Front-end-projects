@@ -1,0 +1,31 @@
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/6355e6254d0d41e7d3aa16c0_card-sorting.svg"
+    
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/619f1c2ab5d65ddab8ae52db_prototype-testing.svg"
+    
+            src="https://assets-global.website-files.com/6101f41d07abfab7b5f57c84/6101f41d07abfa81f8f57cde_click-analysis.svg"
+    
+            src="https://assets-global.website-files.com/6101f41d07abfab7b5f57c84/6101f41d07abfa567af57cc3_surveys.svg"
+    
+            src="https://assets-global.website-files.com/6101f41d07abfab7b5f57c84/6101f41d07abfa0fd5f57cd6_Head%20icon.svg"
+    
+            src="https://assets-global.website-files.com/6101f41d07abfab7b5f57c84/6101f41d07abfaefeaf57cd8_five-second-test.svg"
+
+
+logos
+
+    <div class="logos"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5b46e726a0fccf7d78d81585_logo_amazon.png"
+            alt="Amazon logo" class="logo"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5b46e8e6b998def81a004629_logo_google.png"
+            alt="Google logo" class="logo"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5b46e8e6a0fccf20fed815e3_logo_taskrabbit.png"
+            alt="Task Rabbit logo" class="logo"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5b46e8e6ee75f135fc390ab6_logo_airtable.png"
+            alt="Airtable logo" class="logo"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5b46e726c3102cf1ebf0c2c0_logo_box.png"
+            alt="Box logo" class="logo"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5f7fda34692422757a1b3768_godaddy.svg"
+            alt="Godaddy logo" class="logo godaddy-logo"><img
+            src="https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5b46e726a09814d84e5a21c2_logo_asana.png"
+            alt="Asana logo" class="logo">
+        </div>
