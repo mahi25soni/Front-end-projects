@@ -9,11 +9,10 @@
 
 .overNavbar {
     height: 50px;
-    background-color: rgb(239, 156, 170);
+    background-color: rgb(187, 213, 236);
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
 }
 
 h1 {
@@ -39,6 +38,7 @@ li {
     list-style: none;
     color: #577592;
     font-size: 20px;
+    margin: 4px 0;
 }
 a {
     text-decoration: none;
