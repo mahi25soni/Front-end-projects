@@ -19,10 +19,22 @@
 h1 {
     font-size: x-large;
     font-weight: 800;
+    margin-top  : 15px;
 }
 h2 {
-    font-weight: 350;
+    color: #577592;
+    line-height: 1.5;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 11px;
 }
+
+h3 {
+    font-size: 35px;
+    margin-top  : 15px;
+}
+
 a {
     text-decoration: none;
 }
@@ -31,7 +43,6 @@ a:hover {
 }
 
 .navbar {
-    background-color: pink;
     height: 80px;
     padding: 0 15px;
     margin: 5px 10%;
@@ -57,7 +68,6 @@ button:hover {
 }
 
 .belowNavbar {
-    /* background-color: pink; */
     margin: 0 10%;
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -78,4 +88,51 @@ button:hover {
 .companyLogos img {
     width: 100px;
     height: 50px;
+}
+
+.diffLinks {
+    margin: 60px 10% 30px;
+    text-align: center;
+    /* border: 5px solid red; */
+}
+
+.moreLinks {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 25px   ;
+    justify-content: space-between;
+}
+
+.moreLinks img {
+    width: 40px;
+    height: 40px;
+}
+
+.bodyClass {
+    margin: 0 10%;
+    /* border: 5px solid black; */
+}
+
+.bodyClass img {
+    /* transform: scale(0.5); It don't delete the space the element have taken*/ 
+    height: 70vh;
+}
+
+.insideBody {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contentBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* margin-left: 50px; */
+    padding: 50px;
+    /* align-items: center;  */
+}
+
+.personName {
+    margin: 15px 0;
+    text-decoration: underline;
 }
