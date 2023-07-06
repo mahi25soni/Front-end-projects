@@ -148,3 +148,14 @@ button:hover {
     grid-template-columns: 5fr 1fr;
     align-items: center;
 }
+
+.footer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p {
+    margin: 0 15px;
+}
