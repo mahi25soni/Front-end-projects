@@ -35,6 +35,11 @@ h3 {
     margin-top  : 15px;
 }
 
+li {
+    list-style: none;
+    color: #577592;
+    font-size: 20px;
+}
 a {
     text-decoration: none;
 }
@@ -135,4 +140,11 @@ button:hover {
 .personName {
     margin: 15px 0;
     text-decoration: underline;
+}
+
+.bottomBanner {
+    margin: 0 10%;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    align-items: center;
 }
